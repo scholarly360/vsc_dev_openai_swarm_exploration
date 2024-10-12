@@ -1,6 +1,6 @@
 ## OpenAI Swarm Exploration
 
-Explore Handoff between Agents
+Explore Handoff between Agents using OpenAI gpt-4o-mini
 
 
 
